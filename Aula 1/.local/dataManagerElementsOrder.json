@@ -1,0 +1,73 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "../../../AppData/Local/Programs/UiPath/Studio/Snippets/Windows/SnippetsVBasic/Samples/Text/Quick String Manipulation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "../../../AppData/Local/Programs/UiPath/Studio/Snippets/Windows/SnippetsVBasic/Samples/Text/Split Words.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str&Sequence_1",
+        "words&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "../../../AppData/Local/Programs/UiPath/Studio/Snippets/Windows/SnippetsVBasic/Snippets/Loops/For Each Child.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "iEnumerableFindChildren&Sequence_1",
+        "stringChildValue&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "../../../AppData/Local/Programs/UiPath/Studio/Snippets/Windows/SnippetsVBasic/Snippets/Loops/For Each File in Folder.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "selectFolder&Sequence_1",
+        "files&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Manipulating Excel File.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "status&Sequence_1",
+        "loanId&Sequence_1",
+        "apr&Sequence_1",
+        "approved&Sequence_5",
+        "age&Sequence_4",
+        "annualIncome&Sequence_4",
+        "term&Sequence_4",
+        "amount&Sequence_4",
+        "email&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
