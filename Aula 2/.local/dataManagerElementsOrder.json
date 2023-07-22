@@ -1,0 +1,29 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "textoExtraido&Sequence_1",
+        "caminhoPlanilhaExcel&Sequence_1",
+        "invoiceNumber&Sequence_2",
+        "invoiceDate&Sequence_2",
+        "dueDate&Sequence_2",
+        "grandTotal&Sequence_2",
+        "caminhoPasta&Sequence_1",
+        "invoiceTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
